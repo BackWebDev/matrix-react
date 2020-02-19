@@ -1,0 +1,7 @@
+export default {
+	SET_EMPTY: "SET_EMPTY",
+	SET_FILLED: "SET_FILLED",
+	FILLING: "FILLING",
+	CLEAR: "CLEAR",
+	STOP: "STOP"
+};
